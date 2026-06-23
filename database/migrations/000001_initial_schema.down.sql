@@ -1,0 +1,18 @@
+DROP TABLE IF EXISTS audit_logs;
+DROP TABLE IF EXISTS executions;
+DROP TABLE IF EXISTS academic_performances;
+DROP TABLE IF EXISTS attendance;
+DROP TABLE IF EXISTS schedules;
+DROP TABLE IF EXISTS weeks;
+DROP TABLE IF EXISTS disciplines;
+DROP TABLE IF EXISTS subjects;
+DROP TABLE IF EXISTS users;
+DROP TABLE IF EXISTS student_profiles;
+DROP TABLE IF EXISTS staff_profiles;
+DROP TABLE IF EXISTS auditoriums;
+DROP TABLE IF EXISTS groups;
+DROP TABLE IF EXISTS vocations;
+DROP TABLE IF EXISTS faculties;
+DROP TABLE IF EXISTS persons;
+DROP TABLE IF EXISTS roles;
+
